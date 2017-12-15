@@ -37,7 +37,6 @@ async function replyATopic(params) {
     })
     return topic
 }
-
 module.exports = {
     mode: Topic,
     createANewTopic,
