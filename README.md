@@ -1,4 +1,4 @@
-## node+express+ejs 制作简单社区页面
+## node+express+ejs 制作简单社区后端
 
 ## 构建应用 
     express --view=ejs one_punch/     (one_punch 为文件名)
